@@ -111,7 +111,7 @@
     "@emotion/core": "^11.0.0",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
-    "@hello-pangea/dnd": "^16.0.0",
+    "@hello-pangea/dnd": "16.2.0",
     "@mui/icons-material": ">=5.10.6",
     "@mui/material": ">=5.11.12",
     "@mui/x-date-pickers": "^5.0.3",
